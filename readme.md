@@ -62,8 +62,8 @@ Ensure you have Python 3.7 or later installed on your system.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vegetation-detection.git
-   cd vegetation-detection
+   git clone https://github.com/alex-conanec/vegetation_detection.git
+   cd vegetation_detection
 
 2. **Create a virtual environment (optional but recommended):**
 
